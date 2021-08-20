@@ -24,5 +24,6 @@
     "lodash": "^4.17.21",
     "superagent": "^6.1.0",
     "underscore": "^1.13.1"
-  }
+  },
+  "gitHead": "9cb372a08fc7c263a7717d34db01c71cfc7d9665"
 }
