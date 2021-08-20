@@ -1,0 +1,26 @@
+{
+  "name": "test-lerna-core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "yuanqianyi <yuanqianyi.yqy@alibaba-inc.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/test-lerna-core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.terminus.io"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "underscore": "^1.13.1"
+  }
+}
